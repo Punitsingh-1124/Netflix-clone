@@ -7,11 +7,12 @@ THIS IS HOME OF PAGE:
 
 
 MOVIES AND WEB SERIES :
-Top Rated
-Action Movies
-NETFLIX ORIGINALS
-Comedy Movies
-Horror Movies
-Romance Movies
-Documentaries
+Top Rated,
+Action Movies,
+NETFLIX ORIGINALS,
+Comedy Movies,
+Horror Movies,
+Romance Movies,
+Documentaries,
+![Screenshot 2024-10-06 112302](https://github.com/user-attachments/assets/16cbb4d5-2293-4fa8-8e01-e5839c642c67)
 
